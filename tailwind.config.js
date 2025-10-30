@@ -9,7 +9,6 @@ export default {
     {
       pattern: /(bg|from|to|text)-(emerald|amber|teal|cyan)-(500|600)/,
     },
-    // هذا يضمن أن يتم تضمين الفئات الكاملة في ملف CSS النهائي
     'bg-emerald-500',
     'bg-amber-500',
     'bg-teal-500',
