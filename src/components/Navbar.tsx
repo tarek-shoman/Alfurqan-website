@@ -30,7 +30,7 @@ export default function Navbar() {
           >
             {isOpen ? <X className="w-6 h-6" /> : <Menu className="w-6 h-6" />}
           </button>
-          <div className="hidden md:flex gap-6">
+          <div className="hidden md:flex gap-6" dir="rtl">
             <Link
               to="/"
               className="text-gray-700 hover:text-emerald-600 transition-colors"
