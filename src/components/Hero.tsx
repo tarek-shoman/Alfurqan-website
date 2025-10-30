@@ -12,7 +12,7 @@ export default function Hero() {
             </div>
             <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-gray-900 leading-tight">
               حضانة الفرقان
-              <span className="block text-emerald-600 mt-2">لتحفيظ القرآن والنور البيان</span>
+              <span className="block text-emerald-600 mt-2">لتحفيظ القرآن ونور البيان</span>
             </h1>
             <p className="text-lg text-gray-700 leading-relaxed">
               نوفر بيئة تعليمية آمنة ومحفزة لأطفالكم لتعليم القرآن الكريم بطريقة نور البيان، مع العناية الكاملة والاهتمام بنمو الطفل الروحي والعقلي والاجتماعي
