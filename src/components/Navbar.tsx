@@ -18,10 +18,10 @@ export default function Navbar() {
             <img
               src="/src/imgs/logo.png"
               className="h-24 pt-4"
-              alt="شعار حضانة الفرقان"
+              alt="شعار أكاديمية الفرقان"
             />
             <span className="text-xl font-bold text-gray-900">
-              حضانة الفرقان
+              أكاديمية الفرقان
             </span>
           </Link>
           <button

@@ -11,7 +11,7 @@ export default function Hero() {
               <span className="text-emerald-800 font-medium">منذ عام 2008</span>
             </div>
             <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-gray-900 leading-tight">
-              حضانة الفرقان
+              أكاديمية الفرقان
               <span className="block text-emerald-600 mt-2">لتحفيظ القرآن ونور البيان</span>
             </h1>
             <p className="text-lg text-gray-700 leading-relaxed">

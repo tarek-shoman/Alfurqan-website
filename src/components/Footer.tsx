@@ -10,7 +10,7 @@ export default function Footer() {
           <div className="text-right">
             <div className="flex items-center gap-2 justify-end mb-4">
               <img src="./src/imgs/logo.png" className='h-24 pt-4' alt="" />
-              <span className="text-xl font-bold">حضانة الفرقان</span>
+              <span className="text-xl font-bold">أكاديمية الفرقان</span>
             </div>
             <p className="text-gray-300 leading-relaxed">
               مؤسسة تعليمية رائدة في تحفيظ القرآن الكريم وتعليم نور البيان

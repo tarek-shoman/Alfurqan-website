@@ -39,7 +39,7 @@ export default function Features() {
       <div className="max-w-7xl mx-auto">
         <div className="text-center mb-16">
           <h2 className="text-3xl sm:text-4xl font-bold text-gray-900 mb-4">
-            لماذا حضانة الفرقان؟
+            لماذا أكاديمية الفرقان؟
           </h2>
           <div className="w-24 h-1 bg-emerald-600 mx-auto mb-6"></div>
           <p className="text-lg text-gray-600 max-w-3xl mx-auto">

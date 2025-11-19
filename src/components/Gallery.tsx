@@ -50,7 +50,7 @@ export default function Gallery() {
           </h2>
           <div className="w-24 h-1 bg-emerald-600 mx-auto mb-6"></div>
           <p className="text-lg text-gray-600 max-w-3xl mx-auto">
-            لمحات من أنشطتنا اليومية وفعالياتنا المتنوعة في حضانة النور
+            لمحات من أنشطتنا اليومية وفعالياتنا المتنوعة في أكاديمية الفرقان
           </p>
         </div>
 
