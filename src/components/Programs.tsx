@@ -148,6 +148,7 @@ export default function Programs() {
     <section
       id="programs"
       className="py-20 px-4 sm:px-6 lg:px-8 bg-gradient-to-br from-gray-50 to-emerald-50"
+      dir="rtl"
     >
       <div className="max-w-7xl mx-auto">
         <div className="text-center mb-16">

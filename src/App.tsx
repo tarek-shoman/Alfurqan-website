@@ -16,7 +16,7 @@ const Contact = React.lazy(() => import('./components/Contact'));
 function App() {
   return (
     <BrowserRouter> 
-      <div className="min-h-screen bg-white pt-16"> 
+      <div className="min-h-screen bg-white pt-16" dir='ltr'> 
         
         <Navbar />
 
