@@ -21,7 +21,7 @@ export default function Navbar() {
               alt="شعار أكاديمية الفرقان"
             />
             <span className="text-xl font-bold text-gray-900">
-              أكاديمية
+              أكاديمية الفرقان
             </span>
           </Link>
           <button
