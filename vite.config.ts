@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react';
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/Alfurqan-website/',
+  // base: '/Alfurqan-website/',
   plugins: [react()],
   optimizeDeps: {
     exclude: ['lucide-react'],
