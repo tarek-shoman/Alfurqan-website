@@ -5,11 +5,11 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "tsc && vite build && cp _headers dist/",
+    "build": "tsc && vite build && copy .\\dist\\index.html .\\dist\\404.html",
     "lint": "eslint .",
     "preview": "vite preview",
     "typecheck": "tsc --noEmit -p tsconfig.app.json",
-    "deploy": "gh-pages -d dist",
+    "deploy": "npm run build && gh-pages -d dist",
     "predeploy": "npm run build"
   },
   "dependencies": {
