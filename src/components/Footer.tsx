@@ -57,7 +57,7 @@ export default function Footer() {
             <h3 className="text-lg font-bold mb-4">تواصل معنا</h3>
             <ul className="space-y-3">
               <li className="flex items-center gap-2 justify-end text-gray-300">
-                <span className="dir-ltr">+20 123 456 7890</span>
+                <span className="dir-ltr">+20 111 229 2787</span>
                 <Phone className="w-5 h-5 text-emerald-400" />
               </li>
               <li className="flex items-center gap-2 justify-end text-gray-300">
@@ -75,7 +75,7 @@ export default function Footer() {
         <div className="border-t border-gray-700 pt-8">
           <div className="flex flex-col sm:flex-row justify-between items-center gap-4">
             <div className="text-gray-300 text-sm">
-               Tarek (للحلول البرمجية)   جميع الحقوق محفوظة ©  2025 لدي
+                جميع الحقوق محفوظة  2025 لدي <a className='text-emerald-400 hover:underline' href="https://shoman.com">(© Shoman.com)</a> 
             </div>
             <div className="flex gap-4">
               <a href="#" className="text-gray-300 hover:text-emerald-400 transition-colors">

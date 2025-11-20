@@ -56,10 +56,10 @@ export default function Contact() {
                   <div className="flex-1 text-right">
                     <h4 className="font-semibold text-gray-900 mb-1">الهاتف</h4>
                     <p className="text-gray-600 dir-ltr text-right">
-                      +20 123 456 7890
+                      +20 111 229 2787
                     </p>
                     <p className="text-gray-600 dir-ltr text-right">
-                      +20 100 123 4567
+                      +20 102 439 4390
                     </p>
                   </div>
                 </div>
