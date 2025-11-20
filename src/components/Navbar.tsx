@@ -16,7 +16,7 @@ export default function Navbar() {
           {" "}
           <Link to="/" className="flex items-center gap-2">
             <img
-              src="/src/imgs/logo.png"
+              src="src/imgs/logo.png"
               className="h-24 pt-4"
               alt="شعار أكاديمية الفرقان"
             />

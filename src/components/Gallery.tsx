@@ -4,37 +4,37 @@ import { BookOpen, Users, Award, Heart } from 'lucide-react';
 export default function Gallery() {
   const galleryItems = [
     {
-      icon: './src/imgs/halqat.jpg',
+      icon: 'src/imgs/halqat.jpg',
       title: 'حلقات التحفيظ',
       description: 'حلقات منظمة لتحفيظ القرآن الكريم',
       color: 'emerald'
     },
     {
-      icon: './src/imgs/fosol.jpg!w700wp',
+      icon: 'src/imgs/fosol.jpg!w700wp',
       title: 'الفصول الدراسية',
       description: 'فصول مجهزة بأحدث الوسائل التعليمية',
       color: 'teal'
     },
     {
-      icon: './src/imgs/takharog.jpg',
+      icon: 'src/imgs/takharog.jpg',
       title: 'حفلات التخرج',
       description: 'احتفالات بإنجازات الطلاب',
       color: 'amber'
     },
     {
-      icon: './src/imgs/fosol.jpg!w700wp',
+      icon: 'src/imgs/fosol.jpg!w700wp',
       title: 'الأنشطة الترفيهية',
       description: 'أنشطة متنوعة لتنمية مهارات الطفل',
       color: 'cyan'
     },
     {
-      icon: './src/imgs/fosol.jpg!w700wp',
+      icon: 'src/imgs/fosol.jpg!w700wp',
       title: 'المكتبة القرآنية',
       description: 'مكتبة غنية بالمصاحف والكتب',
       color: 'emerald'
     },
     {
-      icon: './src/imgs/fosol.jpg!w700wp',
+      icon: 'src/imgs/fosol.jpg!w700wp',
       title: 'الرحلات التعليمية',
       description: 'رحلات هادفة وممتعة للطلاب',
       color: 'teal'

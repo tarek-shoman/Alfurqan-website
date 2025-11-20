@@ -58,7 +58,7 @@ export default function Hero() {
           <div className="order-1 md:order-2 relative">
             <div className="relative rounded-3xl overflow-hidden shadow-2xl">
               <div className="aspect-[4/3] bg-gradient-to-br from-emerald-400 to-teal-500 flex items-center justify-center">
-                <img src="/src/imgs/logo.png" className="pt-6" alt="" />
+                <img src="src/imgs/logo.png" className="pt-6" alt="" />
               </div>
               <div className="absolute inset-0 bg-gradient-to-t from-emerald-900/50 to-transparent"></div>
               <div className="absolute bottom-8 right-8 bg-white/95 backdrop-blur-sm px-6 py-4 rounded-xl shadow-lg">

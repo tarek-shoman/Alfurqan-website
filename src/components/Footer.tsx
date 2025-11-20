@@ -9,7 +9,7 @@ export default function Footer() {
         <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-8 mb-8">
           <div className="text-right">
             <div className="flex items-center gap-2 justify-end mb-4">
-              <img src="./src/imgs/logo.png" className='h-24 pt-4' alt="" />
+              <img src="src/imgs/logo.png" className='h-24 pt-4' alt="" />
               <span className="text-xl font-bold">أكاديمية الفرقان</span>
             </div>
             <p className="text-gray-300 leading-relaxed">
